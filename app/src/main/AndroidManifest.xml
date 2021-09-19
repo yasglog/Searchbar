@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Recyclecard">
         <activity
+            android:name=".Main2Activity"
+            android:exported="true" />
+        <activity
             android:name=".HistoryActivity"
             android:exported="true">
             <intent-filter>

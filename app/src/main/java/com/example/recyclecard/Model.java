@@ -17,7 +17,7 @@ public class Model {
         return a;
     }
 
-    public void setA(Integer a) {
+    public void setA(int a) {
         this.a = a;
     }
 }

@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/drawable/click.xml" value="0.2703125" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/layout/activity_history.xml" value="0.1" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/layout/activity_main2.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/layout/click.xml" value="0.2463768115942029" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/layout/image.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/layout/singlelrow.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Dell/AndroidStudioProjects/Recyclecard/app/src/main/res/menu/mainmenu.xml" value="0.14629629629629629" />

@@ -28,7 +28,7 @@ public class HistoryActivity extends AppCompatActivity
         setTitle("Recycler and card view demo");
         rec= (RecyclerView) findViewById(R.id.recview);
         rec.setLayoutManager(new LinearLayoutManager(this));
-        adapter =new myadapter(dataqu());
+        adapter =new myadapter(dataqu(),getApplicationContext());
         rec.setAdapter(adapter);
     }
     public ArrayList<Model>dataqu()
